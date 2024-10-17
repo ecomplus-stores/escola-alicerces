@@ -1,5 +1,5 @@
 {
-  "domain": "ecomplus-storefront.netlify.app",
+  "domain": "escola-alicerces.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "",
   "theme": {
@@ -20,7 +20,7 @@
   "country_code": "BR",
   "secondary_color": "",
   "icon": "/img/icon.png",
-  "store_id": 1052,
+  "store_id": 51504,
   "description": "My PWA Shop",
   "large_icon": "/img/large-icon.png"
 }
